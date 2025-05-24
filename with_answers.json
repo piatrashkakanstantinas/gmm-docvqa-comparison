@@ -10,7 +10,8 @@
     "question_types": ["Figure/Diagram"],
     "answers": ["4089"],
     "donut_answer": "What is the dividend payout in 2012? cagr 30%",
-    "pix2struct_answer": "Crores"
+    "pix2struct_answer": "Crores",
+    "layoutlmv2_answer": "per share"
   },
   {
     "questionId": 16384,
@@ -23,7 +24,8 @@
     "question_types": ["Form"],
     "answers": ["Betty Royal"],
     "donut_answer": "What is the name of the person in the CC field ? betty royal",
-    "pix2struct_answer": "Betty Royal"
+    "pix2struct_answer": "Betty Royal",
+    "layoutlmv2_answer": "betty royal"
   },
   {
     "questionId": 57346,
@@ -36,7 +38,8 @@
     "answers": ["5"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "What is the % of Employees in 2012 based on graph 'Distribution of Value-Added'? 5%",
-    "pix2struct_answer": "2000"
+    "pix2struct_answer": "2000",
+    "layoutlmv2_answer": "7"
   },
   {
     "questionId": 61870,
@@ -49,7 +52,8 @@
     "question_types": ["Table/List"],
     "answers": ["21,720"],
     "donut_answer": "What is the personnel costs in the 4th year? 21,720",
-    "pix2struct_answer": "21,720"
+    "pix2struct_answer": "21,720",
+    "layoutlmv2_answer": "21, 720"
   },
   {
     "questionId": 57348,
@@ -62,7 +66,8 @@
     "answers": ["19"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "What is the % of 'Providers of Capital' in the year 2010 based on 'Distribution of Value-Added' graph? 5%",
-    "pix2struct_answer": "2000"
+    "pix2struct_answer": "2000",
+    "layoutlmv2_answer": "employees"
   },
   {
     "questionId": 65129,
@@ -75,7 +80,8 @@
     "question_types": ["Layout"],
     "answers": ["II"],
     "donut_answer": "What is the table number? ii",
-    "pix2struct_answer": "Table II"
+    "pix2struct_answer": "Table II",
+    "layoutlmv2_answer": "ii"
   },
   {
     "questionId": 16390,
@@ -88,7 +94,8 @@
     "question_types": ["Form"],
     "answers": ["88-"],
     "donut_answer": "What is the Log-in No. ? 88",
-    "pix2struct_answer": "88-"
+    "pix2struct_answer": "88-",
+    "layoutlmv2_answer": "88 -"
   },
   {
     "questionId": 57351,
@@ -101,7 +108,8 @@
     "answers": ["75"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "What is the % of Exchequer in 2008 based on 'Distribution of Value-Added' graph? 17000",
-    "pix2struct_answer": "26000"
+    "pix2struct_answer": "26000",
+    "layoutlmv2_answer": "employees"
   },
   {
     "questionId": 65131,
@@ -114,7 +122,8 @@
     "answers": ["fed,fasted", "fed/fasted", "fed and fasted"],
     "question_types": ["Table/List"],
     "donut_answer": "What are the two types of rats tested? <0.00",
-    "pix2struct_answer": "Ambient temperature"
+    "pix2struct_answer": "Ambient temperature",
+    "layoutlmv2_answer": "fed and fasted rats"
   },
   {
     "questionId": 46240,
@@ -129,7 +138,8 @@
     ],
     "question_types": ["Table/List"],
     "donut_answer": "Which meeting is expected to have the highest ' attendance ' ? pharmaceutical scientists",
-    "pix2struct_answer": "VH1 Upcoming Meetings and Deadlines"
+    "pix2struct_answer": "VH1 Upcoming Meetings and Deadlines",
+    "layoutlmv2_answer": "menopause society"
   },
   {
     "questionId": 16397,
@@ -142,7 +152,8 @@
     "answers": ["5177"],
     "question_types": ["Form"],
     "donut_answer": "What is the extension number ? 5177",
-    "pix2struct_answer": "5177"
+    "pix2struct_answer": "5177",
+    "layoutlmv2_answer": "$ 177"
   },
   {
     "questionId": 16399,
@@ -155,7 +166,8 @@
     "answers": ["611-13E/002"],
     "question_types": ["Form"],
     "donut_answer": "What is the mail address ? 611-13e/002",
-    "pix2struct_answer": "611-13E/002"
+    "pix2struct_answer": "611-13E/002",
+    "layoutlmv2_answer": "_ _ 611 - 13e / 002"
   },
   {
     "questionId": 16401,
@@ -168,7 +180,8 @@
     "answers": ["June 7, 1988"],
     "question_types": ["Form"],
     "donut_answer": "What is the date when the approval form was filled ? june 7, 1988",
-    "pix2struct_answer": "June 7, 1988"
+    "pix2struct_answer": "June 7, 1988",
+    "layoutlmv2_answer": "june 7, 1988"
   },
   {
     "questionId": 61876,
@@ -181,7 +194,8 @@
     "answers": ["$115,872", "115,872$"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the total costs for proposed project period? $115,872.",
-    "pix2struct_answer": "$115,872"
+    "pix2struct_answer": "$115,872",
+    "layoutlmv2_answer": "26, 300 | 27, 982 29, 882 | 31, 708"
   },
   {
     "questionId": 16403,
@@ -194,7 +208,8 @@
     "answers": ["Analytical Research"],
     "question_types": ["Form"],
     "donut_answer": "What is the name of the divison ? analytical research",
-    "pix2struct_answer": "analytical research"
+    "pix2struct_answer": "analytical research",
+    "layoutlmv2_answer": "analytical research"
   },
   {
     "questionId": 16404,
@@ -207,7 +222,8 @@
     "answers": ["Sr. R&D Chemist"],
     "question_types": ["Form"],
     "donut_answer": "What is the title of William M. Coleman ? sr. r&d chemist",
-    "pix2struct_answer": "Sr. R&D Chemist"
+    "pix2struct_answer": "Sr. R&D Chemist",
+    "layoutlmv2_answer": "sr. r & d chemist"
   },
   {
     "questionId": 65127,
@@ -220,7 +236,8 @@
     "answers": ["kcal/day"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "What is plotted along the x axis ? kcal/day",
-    "pix2struct_answer": "Mean Supplement Intake and Mean Growth Rates in Supine Length for Quartities of Atole (%) and Fresco (%)"
+    "pix2struct_answer": "Mean Supplement Intake and Mean Growth Rates in Supine Length for Quartities of Atole (%) and Fresco (%)",
+    "layoutlmv2_answer": "kcal / day"
   },
   {
     "questionId": 16406,
@@ -233,7 +250,8 @@
     "answers": ["Lexington, Kentucky"],
     "question_types": ["Form"],
     "donut_answer": "Where is the venue of the conference ? lexington, kentucky",
-    "pix2struct_answer": "42nd Tobacco Chemists' Research Conference"
+    "pix2struct_answer": "42nd Tobacco Chemists' Research Conference",
+    "layoutlmv2_answer": "lexington, kentucky"
   },
   {
     "questionId": 16412,
@@ -246,7 +264,8 @@
     "question_types": ["Form"],
     "answers": ["42nd Tobacco Chemists' Research Conference"],
     "donut_answer": "What is the name of the conference ? tobacco chemists' research conference",
-    "pix2struct_answer": "William M. Coleman, III"
+    "pix2struct_answer": "William M. Coleman, III",
+    "layoutlmv2_answer": "42nd tobacco chemists \u2019 research conference"
   },
   {
     "questionId": 16414,
@@ -259,7 +278,8 @@
     "answers": ["June 7th, 1988"],
     "question_types": ["Form", "Handwritten"],
     "donut_answer": "On which date is the conference to be held ? october 2-5, 1988",
-    "pix2struct_answer": "June 7, 1988"
+    "pix2struct_answer": "June 7, 1988",
+    "layoutlmv2_answer": "october 2 - 5, 1988"
   },
   {
     "questionId": 57378,
@@ -272,7 +292,8 @@
     "answers": ["6000"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "How much is the Contribution in '03 based on \"Contribution to the Exchequer\" graph? 04",
-    "pix2struct_answer": "18000"
+    "pix2struct_answer": "18000",
+    "layoutlmv2_answer": "employees"
   },
   {
     "questionId": 49186,
@@ -285,7 +306,8 @@
     "answers": ["Current Fund Revenues"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the 10th 'title' in Contents ? current fund revenues",
-    "pix2struct_answer": "Current Fund Revenues"
+    "pix2struct_answer": "Current Fund Revenues",
+    "layoutlmv2_answer": "number of institutions"
   },
   {
     "questionId": 49189,
@@ -298,7 +320,8 @@
     "answers": ["5"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the page number of the title 'Enrollment' in CONTENTS? 5",
-    "pix2struct_answer": "5"
+    "pix2struct_answer": "5",
+    "layoutlmv2_answer": "1975 - 76 \u2014 1979 - 80"
   },
   {
     "questionId": 57383,
@@ -311,7 +334,8 @@
     "answers": ["2012"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "Upto which year the graph is plotted in 'Distribution of Value-Added' graph? 08",
-    "pix2struct_answer": "2000"
+    "pix2struct_answer": "2000",
+    "layoutlmv2_answer": "2008"
   },
   {
     "questionId": 57384,
@@ -324,7 +348,8 @@
     "answers": ["Financial highlights"],
     "question_types": ["Layout"],
     "donut_answer": "What is the title of the document? financial highlights",
-    "pix2struct_answer": "Financial Highlights"
+    "pix2struct_answer": "Financial Highlights",
+    "layoutlmv2_answer": "nan cigarettes segment revenue"
   },
   {
     "questionId": 63509,
@@ -337,7 +362,8 @@
     "answers": ["Thiamine metabolism"],
     "question_types": ["Table/List"],
     "donut_answer": "What is No. 2-26 of subheading H ? thiamine metabolism",
-    "pix2struct_answer": "thiamine metabolism"
+    "pix2struct_answer": "thiamine metabolism",
+    "layoutlmv2_answer": "thiamine metabolism"
   },
   {
     "questionId": 65128,
@@ -350,7 +376,8 @@
     "answers": ["Supine length (cm)"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "What is plotted along the y axis ? supine length",
-    "pix2struct_answer": "Mean Supplement Intake and Mean Growth Rates"
+    "pix2struct_answer": "Mean Supplement Intake and Mean Growth Rates",
+    "layoutlmv2_answer": "kcal / day"
   },
   {
     "questionId": 61883,
@@ -363,7 +390,8 @@
     "answers": ["Alternates"],
     "question_types": ["Layout"],
     "donut_answer": "What is the second subheading? address",
-    "pix2struct_answer": "2"
+    "pix2struct_answer": "2",
+    "layoutlmv2_answer": "address"
   },
   {
     "questionId": 61886,
@@ -376,7 +404,8 @@
     "answers": ["Vancouver Island Coach Lines Ltd."],
     "question_types": ["Layout", "Free_text"],
     "donut_answer": "Which is the railways company? vancouver island coach lines ltd.",
-    "pix2struct_answer": "VICTORIA AND VICTORIA AIRPORT"
+    "pix2struct_answer": "VICTORIA AND VICTORIA AIRPORT",
+    "layoutlmv2_answer": "vancouver island coach lines ltd."
   },
   {
     "questionId": 49225,
@@ -389,7 +418,8 @@
     "answers": ["United States", "US"],
     "question_types": ["Layout"],
     "donut_answer": "Which country's statistics on Higher Education is specified in the page? united states",
-    "pix2struct_answer": "United States"
+    "pix2struct_answer": "United States",
+    "layoutlmv2_answer": "united states"
   },
   {
     "questionId": 63516,
@@ -402,7 +432,8 @@
     "answers": ["696"],
     "question_types": ["Table/List"],
     "donut_answer": "Under Private service how many patients were discharged in Neurology? 696",
-    "pix2struct_answer": "9,052"
+    "pix2struct_answer": "9,052",
+    "layoutlmv2_answer": "696"
   },
   {
     "questionId": 57422,
@@ -415,7 +446,8 @@
     "answers": ["Bingo! Tangles"],
     "question_types": ["Image/Photo"],
     "donut_answer": "What is the brand name of the ITC personal care product advertised here? targeting communication",
-    "pix2struct_answer": "ITC Personal care product"
+    "pix2struct_answer": "ITC Personal care product",
+    "layoutlmv2_answer": "itc limited report and accounts 2013 providing value to customers & consumers ; ties os _ yat"
   },
   {
     "questionId": 61888,
@@ -428,7 +460,8 @@
     "question_types": ["Table/List", "Layout"],
     "answers": ["$2.50"],
     "donut_answer": "What is the adult fare? $2.50",
-    "pix2struct_answer": "$2.50"
+    "pix2struct_answer": "$2.50",
+    "layoutlmv2_answer": "$ 505"
   },
   {
     "questionId": 57424,
@@ -441,7 +474,8 @@
     "answers": ["VIII", "8"],
     "question_types": ["Layout"],
     "donut_answer": "What is the page number? vii",
-    "pix2struct_answer": "3"
+    "pix2struct_answer": "3",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 57425,
@@ -454,7 +488,8 @@
     "answers": ["ITC Limited"],
     "question_types": ["Layout"],
     "donut_answer": "What is the name of the company mentioned at the top? itc limited report and accounts 2013",
-    "pix2struct_answer": "ITC Limited"
+    "pix2struct_answer": "ITC Limited",
+    "layoutlmv2_answer": "itc limited"
   },
   {
     "questionId": 57426,
@@ -467,7 +502,8 @@
     "answers": ["Choupal Saagars"],
     "question_types": ["Free_text"],
     "donut_answer": "What are the 'integrated rural services hubs' called? 'choupal saagars'the transparency and effectiveness of the e-choupal system",
-    "pix2struct_answer": "Choupal Saagans"
+    "pix2struct_answer": "Choupal Saagans",
+    "layoutlmv2_answer": ""
   },
   {
     "questionId": 61889,
@@ -480,7 +516,8 @@
     "question_types": ["Layout", "Image/Photo"],
     "answers": ["66727"],
     "donut_answer": "What is the ticket/pass number? $25.00",
-    "pix2struct_answer": "66727"
+    "pix2struct_answer": "66727",
+    "layoutlmv2_answer": "a3"
   },
   {
     "questionId": 57429,
@@ -493,7 +530,8 @@
     "answers": ["CII Code of Conducts"],
     "question_types": ["Layout", "Free_text"],
     "donut_answer": "What is the code of conduct for 'affirmative action' adopted by ITC? 'cil code of conduct for affirmative action'",
-    "pix2struct_answer": "CII Code"
+    "pix2struct_answer": "CII Code",
+    "layoutlmv2_answer": "' cll"
   },
   {
     "questionId": 57430,
@@ -506,7 +544,8 @@
     "answers": ["Direct and indirect employment"],
     "question_types": ["Layout", "Free_text"],
     "donut_answer": "What is the first bullet point under Affirmative Action? itc",
-    "pix2struct_answer": "Creating Engaging Workplaces"
+    "pix2struct_answer": "Creating Engaging Workplaces",
+    "layoutlmv2_answer": "itc has adopted the ' cll code of conduct"
   },
   {
     "questionId": 32850,
@@ -519,7 +558,8 @@
     "answers": ["192"],
     "question_types": ["Table/List"],
     "donut_answer": "How many adult deaths were in 1978 as per 2nd quarter report ? 1978",
-    "pix2struct_answer": "192"
+    "pix2struct_answer": "192",
+    "layoutlmv2_answer": "3"
   },
   {
     "questionId": 32851,
@@ -532,7 +572,8 @@
     "answers": ["941"],
     "question_types": ["Table/List"],
     "donut_answer": "How many Newborns are there in the 2nd quarter report of 1978 ? 941",
-    "pix2struct_answer": "363"
+    "pix2struct_answer": "363",
+    "layoutlmv2_answer": "3"
   },
   {
     "questionId": 57433,
@@ -545,7 +586,8 @@
     "answers": ["MACRO POLO Prince FILTER"],
     "question_types": ["Image/Photo"],
     "donut_answer": "What Tobacco brand of GPI is shown in the picture? processing",
-    "pix2struct_answer": "GPI grew by 3 times the industry rate of growth in 2002-03"
+    "pix2struct_answer": "GPI grew by 3 times the industry rate of growth in 2002-03",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 57434,
@@ -558,7 +600,8 @@
     "answers": ["CPI"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the name of the company? the r&d",
-    "pix2struct_answer": "\"Tipper and Prince\""
+    "pix2struct_answer": "\"Tipper and Prince\"",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 32852,
@@ -571,7 +614,8 @@
     "answers": ["3598"],
     "question_types": ["Table/List"],
     "donut_answer": "How many admissions were there as per June report in 1978 ? 363",
-    "pix2struct_answer": "3598"
+    "pix2struct_answer": "3598",
+    "layoutlmv2_answer": "page 3"
   },
   {
     "questionId": 57437,
@@ -584,7 +628,8 @@
     "answers": ["Tipper and Prince", "Tipper,Prince"],
     "question_types": ["Free_text"],
     "donut_answer": "Which 2 tobacco brands were successfully launched by GPI? tipper and prince",
-    "pix2struct_answer": "Tipper and Prince"
+    "pix2struct_answer": "Tipper and Prince",
+    "layoutlmv2_answer": "three"
   },
   {
     "questionId": 16478,
@@ -597,7 +642,8 @@
     "answers": ["27"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the % Promoted Volume in EDLP stores? 27%",
-    "pix2struct_answer": "27%"
+    "pix2struct_answer": "27%",
+    "layoutlmv2_answer": "26 %"
   },
   {
     "questionId": 57441,
@@ -610,7 +656,8 @@
     "question_types": ["Layout"],
     "answers": ["WILLS Lifestyle"],
     "donut_answer": "What is the lifestyle apparel brand, of ITC shown in the first picture? lifestyle",
-    "pix2struct_answer": "Wills Lifestyle"
+    "pix2struct_answer": "Wills Lifestyle",
+    "layoutlmv2_answer": "wills"
   },
   {
     "questionId": 57442,
@@ -623,7 +670,8 @@
     "answers": ["johnplayers jeans"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the name of the denim wear of JohnPlayers? denims and casual wear",
-    "pix2struct_answer": "jean"
+    "pix2struct_answer": "jean",
+    "layoutlmv2_answer": ""
   },
   {
     "questionId": 57443,
@@ -636,7 +684,8 @@
     "answers": ["Wills Classic"],
     "question_types": ["Free_text"],
     "donut_answer": "Which is the 'formal wear' product of WILLS LIFESTYLE? wills sport relaxed wear, wills clublife evening wear and wills signature designer wear.",
-    "pix2struct_answer": "Wills Classic"
+    "pix2struct_answer": "Wills Classic",
+    "layoutlmv2_answer": "wills classic"
   },
   {
     "questionId": 57444,
@@ -649,7 +698,8 @@
     "answers": ["Wills Sport"],
     "question_types": ["Free_text"],
     "donut_answer": "Which is the 'relaxed wear' product of WILLS LIFESTYLE? wills lifestyle",
-    "pix2struct_answer": "Wills Sport"
+    "pix2struct_answer": "Wills Sport",
+    "layoutlmv2_answer": "wills sport"
   },
   {
     "questionId": 57445,
@@ -662,7 +712,8 @@
     "answers": ["Wills Signature"],
     "question_types": ["Free_text"],
     "donut_answer": "Which is the 'designer wear' product of WILLS LIFESTYLE? wills lifestyle ofters a truly delightful shopping",
-    "pix2struct_answer": "Wills Signature"
+    "pix2struct_answer": "Wills Signature",
+    "layoutlmv2_answer": "wills signature designer wear, wills lifestyle offers a truly delightful shopping experience for the discerning customer. desi johnplayers. jeans is the new language for the fashion - forward youth, featuring an innovative collection of denims and casual wear in edgy styling, bold patterns and contemporary fits. john players"
   },
   {
     "questionId": 57446,
@@ -675,7 +726,8 @@
     "answers": ["Wills clublife"],
     "question_types": ["Free_text"],
     "donut_answer": "Which is the 'evening wear' product of WILLS LIFESTYLE? wills signature designer wear",
-    "pix2struct_answer": "Wills Clublife"
+    "pix2struct_answer": "Wills Clublife",
+    "layoutlmv2_answer": "wills clublife"
   },
   {
     "questionId": 16484,
@@ -688,7 +740,8 @@
     "answers": ["7.5%"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the Level of Price reduction in EDLP Stores? 7.5%",
-    "pix2struct_answer": "7.5%"
+    "pix2struct_answer": "7.5%",
+    "layoutlmv2_answer": "feature & display"
   },
   {
     "questionId": 32866,
@@ -701,7 +754,8 @@
     "answers": ["1975"],
     "question_types": ["Layout"],
     "donut_answer": "Which year was the meeting held? 1975",
-    "pix2struct_answer": "1975"
+    "pix2struct_answer": "1975",
+    "layoutlmv2_answer": "1975"
   },
   {
     "questionId": 16489,
@@ -714,7 +768,8 @@
     "answers": ["Point-of-Display"],
     "question_types": ["Table/List"],
     "donut_answer": "Which technique has 24% in EDLP stores as per the data? point-of-display",
-    "pix2struct_answer": "Point-of-Display"
+    "pix2struct_answer": "Point-of-Display",
+    "layoutlmv2_answer": "- point - of - display"
   },
   {
     "questionId": 63520,
@@ -727,7 +782,8 @@
     "answers": ["American Heart Association"],
     "question_types": ["Free_text", "Others"],
     "donut_answer": "What is the full form of AHA? american heart association",
-    "pix2struct_answer": "American Heart Association"
+    "pix2struct_answer": "American Heart Association",
+    "layoutlmv2_answer": "the american heart association"
   },
   {
     "questionId": 49254,
@@ -740,7 +796,8 @@
     "answers": ["1980"],
     "question_types": ["Layout"],
     "donut_answer": "Which year's Budget was this? 1980",
-    "pix2struct_answer": "1980"
+    "pix2struct_answer": "1980",
+    "layoutlmv2_answer": "1980"
   },
   {
     "questionId": 16492,
@@ -753,7 +810,8 @@
     "answers": ["TPR"],
     "question_types": ["Table/List"],
     "donut_answer": "Which technique has 51% in High-Low stores as per the data? -tpr",
-    "pix2struct_answer": "-Point-of-Display"
+    "pix2struct_answer": "-Point-of-Display",
+    "layoutlmv2_answer": "edlp"
   },
   {
     "questionId": 63522,
@@ -766,7 +824,8 @@
     "answers": ["MARKET"],
     "question_types": ["Image/Photo"],
     "donut_answer": "What is written on the door in the image? estimation research",
-    "pix2struct_answer": "IN-STORE INFORMATION INTERVENTION PROJECT"
+    "pix2struct_answer": "IN-STORE INFORMATION INTERVENTION PROJECT",
+    "layoutlmv2_answer": "the american heart association"
   },
   {
     "questionId": 49260,
@@ -779,7 +838,8 @@
     "answers": ["3,000"],
     "question_types": ["Table/List", "Layout"],
     "donut_answer": "How much is the Admin.Costs of 'Headstart' ? 3,000",
-    "pix2struct_answer": "6,500"
+    "pix2struct_answer": "6,500",
+    "layoutlmv2_answer": "3, 000"
   },
   {
     "questionId": 57455,
@@ -792,7 +852,8 @@
     "answers": ["1,22,000"],
     "question_types": ["Free_text"],
     "donut_answer": "Approximately, how many person-days training was provided to employees of ITC in 2012-13? 1,22,000",
-    "pix2struct_answer": "11,400"
+    "pix2struct_answer": "11,400",
+    "layoutlmv2_answer": "over 1, 22, 000"
   },
   {
     "questionId": 49265,
@@ -805,7 +866,8 @@
     "answers": ["33,000"],
     "question_types": ["Table/List"],
     "donut_answer": "How much is the 1980 Total cost under the head 'Abt - Headstart'? 33,000",
-    "pix2struct_answer": "33,000"
+    "pix2struct_answer": "33,000",
+    "layoutlmv2_answer": "100, 100"
   },
   {
     "questionId": 61895,
@@ -818,7 +880,8 @@
     "answers": ["31A"],
     "question_types": ["Table/List", "Image/Photo"],
     "donut_answer": "What is the seat number? 31a",
-    "pix2struct_answer": "Smoking Section"
+    "pix2struct_answer": "Smoking Section",
+    "layoutlmv2_answer": "no"
   },
   {
     "questionId": 49267,
@@ -831,7 +894,8 @@
     "answers": ["SCN-4"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the code given for 'Iowa Department of Education'? scn-4",
-    "pix2struct_answer": "SCN 10,000"
+    "pix2struct_answer": "SCN 10,000",
+    "layoutlmv2_answer": "scn - 4"
   },
   {
     "questionId": 32884,
@@ -844,7 +908,8 @@
     "answers": ["40549"],
     "question_types": ["Layout"],
     "donut_answer": "What is the order no. ? 40549",
-    "pix2struct_answer": "40549"
+    "pix2struct_answer": "40549",
+    "layoutlmv2_answer": ""
   },
   {
     "questionId": 57461,
@@ -857,7 +922,8 @@
     "answers": ["ITC Sustainability Report 2013"],
     "question_types": ["Free_text"],
     "donut_answer": "What should be referred for more details ? to theltc sustainability report 2013",
-    "pix2struct_answer": "Please refer to the ITC Sustainability Report 2013."
+    "pix2struct_answer": "Please refer to the ITC Sustainability Report 2013.",
+    "layoutlmv2_answer": "sustainability report"
   },
   {
     "questionId": 61896,
@@ -870,7 +936,8 @@
     "answers": ["No Smoking Section"],
     "question_types": ["Layout"],
     "donut_answer": "In which section is the passenger's seat? smoking section",
-    "pix2struct_answer": "Smoking Section-Seat Number"
+    "pix2struct_answer": "Smoking Section-Seat Number",
+    "layoutlmv2_answer": "smoking section"
   },
   {
     "questionId": 57464,
@@ -883,7 +950,8 @@
     "answers": ["ITC Limited"],
     "question_types": ["Layout", "Free_text"],
     "donut_answer": "What is the name of the company? itc limited report and accounts 2013",
-    "pix2struct_answer": "ITC Limited"
+    "pix2struct_answer": "ITC Limited",
+    "layoutlmv2_answer": "itc limited"
   },
   {
     "questionId": 57466,
@@ -896,7 +964,8 @@
     "answers": ["CII-ITC Centre of Excellence for Sustainable Development"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the name of the Centre of ITC? the cii-itc centre of excellence for sustainable development",
-    "pix2struct_answer": "The Confederation of Indian Industry"
+    "pix2struct_answer": "The Confederation of Indian Industry",
+    "layoutlmv2_answer": "the cil - itc centre of excellence for sustainable development"
   },
   {
     "questionId": 57468,
@@ -909,7 +978,8 @@
     "answers": ["Sustainability Award"],
     "question_types": ["Image/Photo"],
     "donut_answer": "What is the name of the award given by ITC in the picture? the cii-itc centre of excellence for sustainable development",
-    "pix2struct_answer": "The CI-ITC Sustainability Awards 2012"
+    "pix2struct_answer": "The CI-ITC Sustainability Awards 2012",
+    "layoutlmv2_answer": "2012"
   },
   {
     "questionId": 57469,
@@ -922,7 +992,8 @@
     "answers": ["2012"],
     "question_types": ["Image/Photo"],
     "donut_answer": "What is the year of Awards shown in the picture? 1972",
-    "pix2struct_answer": "2012"
+    "pix2struct_answer": "2012",
+    "layoutlmv2_answer": "2012"
   },
   {
     "questionId": 57470,
@@ -935,7 +1006,8 @@
     "answers": ["Thought Leadership in Sustainability"],
     "question_types": ["Layout"],
     "donut_answer": "What is the text appearing above the straight line on top of the page? thought leadership in sustainability",
-    "pix2struct_answer": "The CII-ITC Centre of Excellence for Sustainable Development"
+    "pix2struct_answer": "The CII-ITC Centre of Excellence for Sustainable Development",
+    "layoutlmv2_answer": "thought leadership in sustainability"
   },
   {
     "questionId": 57471,
@@ -948,7 +1020,8 @@
     "answers": ["ITC's Brands: Empowering Value Chains"],
     "question_types": ["Layout"],
     "donut_answer": "What is the title of the page? itc limited report and accounts 2013",
-    "pix2struct_answer": "ITC's Brands: Empowering Value Chains"
+    "pix2struct_answer": "ITC's Brands: Empowering Value Chains",
+    "layoutlmv2_answer": "itc \u2019 s brands : empowering value chains"
   },
   {
     "questionId": 16512,
@@ -961,7 +1034,8 @@
     "answers": ["American Academy of Neurology"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the fullform of AAN? american academy of neurology",
-    "pix2struct_answer": "American Academy of Neurology"
+    "pix2struct_answer": "American Academy of Neurology",
+    "layoutlmv2_answer": "american academy of neurology"
   },
   {
     "questionId": 57473,
@@ -974,7 +1048,8 @@
     "answers": ["Aashirvaad"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the brand name of the atta produced by ITC? aahirvaad atta",
-    "pix2struct_answer": "Aashirvaad"
+    "pix2struct_answer": "Aashirvaad",
+    "layoutlmv2_answer": "aashirvaad"
   },
   {
     "questionId": 57474,
@@ -987,7 +1062,8 @@
     "answers": ["Bingo!"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the brand name of the snack foods produced by ITC? aahirvaad",
-    "pix2struct_answer": "Bingo!"
+    "pix2struct_answer": "Bingo!",
+    "layoutlmv2_answer": "aashirvaad spices or superior chipstock potatoes"
   },
   {
     "questionId": 16515,
@@ -1000,7 +1076,8 @@
     "answers": ["March 2002"],
     "question_types": ["Table/List"],
     "donut_answer": "When is the American College of Cardiology(ACC) Meeting organized? march 2002",
-    "pix2struct_answer": "September 3, 2001"
+    "pix2struct_answer": "September 3, 2001",
+    "layoutlmv2_answer": "march 2002"
   },
   {
     "questionId": 32895,
@@ -1013,7 +1090,8 @@
     "answers": ["Stanford University Hospital"],
     "question_types": ["Free_text"],
     "donut_answer": "Which hospital is mentioned in Appendix V ? stanford university hospital",
-    "pix2struct_answer": "Stanford University Hospital"
+    "pix2struct_answer": "Stanford University Hospital",
+    "layoutlmv2_answer": "stanford university hospital"
   },
   {
     "questionId": 32901,
@@ -1026,7 +1104,8 @@
     "answers": ["November 8, 1977"],
     "question_types": ["Layout"],
     "donut_answer": "When is the memorandum dated? november 8, 1977",
-    "pix2struct_answer": "November 8, 1977"
+    "pix2struct_answer": "November 8, 1977",
+    "layoutlmv2_answer": "november 8, 1977"
   },
   {
     "questionId": 16518,
@@ -1039,7 +1118,8 @@
     "answers": ["October 2001"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the deadline given for AANP? october 2001",
-    "pix2struct_answer": "October 2001"
+    "pix2struct_answer": "October 2001",
+    "layoutlmv2_answer": "october 2001"
   },
   {
     "questionId": 16519,
@@ -1052,7 +1132,8 @@
     "answers": ["May 2002"],
     "question_types": ["Table/List"],
     "donut_answer": "When is the ASCO meeting organized? may 2002",
-    "pix2struct_answer": "Nov-Dec 2001"
+    "pix2struct_answer": "Nov-Dec 2001",
+    "layoutlmv2_answer": "nov - dec 2001"
   },
   {
     "questionId": 16520,
@@ -1065,7 +1146,8 @@
     "question_types": ["Table/List"],
     "answers": ["July 15, 2001"],
     "donut_answer": "What is the deadline given for ISGE? july 15, 2001",
-    "pix2struct_answer": "July 15, 2001"
+    "pix2struct_answer": "July 15, 2001",
+    "layoutlmv2_answer": "july 15, 2001"
   },
   {
     "questionId": 16521,
@@ -1078,7 +1160,8 @@
     "answers": ["American Academy of Nurse Practitioners"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the fullform of AACR? american association of cancer research",
-    "pix2struct_answer": "American Association of Cancer Research"
+    "pix2struct_answer": "American Association of Cancer Research",
+    "layoutlmv2_answer": "american association of cancer research"
   },
   {
     "questionId": 32902,
@@ -1091,7 +1174,8 @@
     "answers": ["Mary Winston, Ed.D."],
     "question_types": ["Form"],
     "donut_answer": "Who has sent the memorandum ? mary winston",
-    "pix2struct_answer": "Mary Winston, Ed.D."
+    "pix2struct_answer": "Mary Winston, Ed.D.",
+    "layoutlmv2_answer": "ronald lauer, m. d."
   },
   {
     "questionId": 16523,
@@ -1104,7 +1188,8 @@
     "answers": ["March 2002"],
     "question_types": ["Table/List"],
     "donut_answer": "When is the AACR meeting organized? march 2002",
-    "pix2struct_answer": "March 2002"
+    "pix2struct_answer": "March 2002",
+    "layoutlmv2_answer": "october 2001"
   },
   {
     "questionId": 32903,
@@ -1117,7 +1202,8 @@
     "answers": ["Henry McGill"],
     "question_types": ["Free_text"],
     "donut_answer": "Who has prepared the revision of the proposed statement for the committee ? henry mcgill",
-    "pix2struct_answer": "Henry McGill"
+    "pix2struct_answer": "Henry McGill",
+    "layoutlmv2_answer": "henry mcgill."
   },
   {
     "questionId": 32905,
@@ -1130,7 +1216,8 @@
     "answers": ["Charlie"],
     "question_types": ["Free_text"],
     "donut_answer": "Who prepared the first proposed statement ? charlie",
-    "pix2struct_answer": "Committee by Henry McGill"
+    "pix2struct_answer": "Committee by Henry McGill",
+    "layoutlmv2_answer": "charlie"
   },
   {
     "questionId": 32906,
@@ -1143,7 +1230,8 @@
     "answers": ["November"],
     "question_types": ["Free_text"],
     "donut_answer": "When is the Council Affairs Meeting ? november",
-    "pix2struct_answer": "November 18th"
+    "pix2struct_answer": "November 18th",
+    "layoutlmv2_answer": "november 8, 1977"
   },
   {
     "questionId": 63529,
@@ -1156,7 +1244,8 @@
     "question_types": ["Layout"],
     "answers": ["4"],
     "donut_answer": "What is the table number? 4",
-    "pix2struct_answer": "4"
+    "pix2struct_answer": "4",
+    "layoutlmv2_answer": "4"
   },
   {
     "questionId": 49295,
@@ -1169,7 +1258,8 @@
     "answers": ["1972"],
     "question_types": ["Layout", "Free_text", "Handwritten"],
     "donut_answer": "Which year's report was this? 1972",
-    "pix2struct_answer": "1972"
+    "pix2struct_answer": "1972",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 61902,
@@ -1182,7 +1272,8 @@
     "answers": ["XI", "11"],
     "question_types": ["Layout"],
     "donut_answer": "What is the Roman numeral on the top right? xi",
-    "pix2struct_answer": "XI"
+    "pix2struct_answer": "XI",
+    "layoutlmv2_answer": "no smoking section \u2014 seat number"
   },
   {
     "questionId": 49301,
@@ -1195,7 +1286,8 @@
     "answers": ["100"],
     "question_types": ["Free_text"],
     "donut_answer": "How many number of females were examined in total ? 100",
-    "pix2struct_answer": "105"
+    "pix2struct_answer": "105",
+    "layoutlmv2_answer": "four"
   },
   {
     "questionId": 49306,
@@ -1208,7 +1300,8 @@
     "answers": ["2.86%"],
     "question_types": ["Table/List"],
     "donut_answer": "How many percent of Males have Marginal redness or swelling in 'GUMS' ? 2.86",
-    "pix2struct_answer": "2.86"
+    "pix2struct_answer": "2.86",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 49307,
@@ -1221,7 +1314,8 @@
     "answers": ["3"],
     "question_types": ["Table/List"],
     "donut_answer": "How many number of Females have 'Cavities in four or more teeth' ? 3.00",
-    "pix2struct_answer": "3"
+    "pix2struct_answer": "3",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 49312,
@@ -1234,7 +1328,8 @@
     "answers": ["Male"],
     "question_types": ["Table/List"],
     "donut_answer": "Which category of students is having more percent of 'Marginal redness or swelling' GUM issues? 2.86",
-    "pix2struct_answer": "2.86"
+    "pix2struct_answer": "2.86",
+    "layoutlmv2_answer": "gems"
   },
   {
     "questionId": 46246,
@@ -1247,7 +1342,8 @@
     "answers": ["March 24, 2003, 1:00 PM-2:30 PM"],
     "question_types": ["Layout"],
     "donut_answer": "What is the date and time mentioned at the top of the page, outside of the Tabular representation? march 24, 2003",
-    "pix2struct_answer": "March 24, 2003"
+    "pix2struct_answer": "March 24, 2003",
+    "layoutlmv2_answer": "march 24, 2003, 1 : 00 pm \u2014 2 : 30 pm, executive conference room 150b2"
   },
   {
     "questionId": 61905,
@@ -1260,7 +1356,8 @@
     "answers": ["Thursday 22 October"],
     "question_types": ["Layout"],
     "donut_answer": "What is the day and date of Meeting? thursday 22 october",
-    "pix2struct_answer": "Thursday 22 October"
+    "pix2struct_answer": "Thursday 22 October",
+    "layoutlmv2_answer": "thursday 22 october"
   },
   {
     "questionId": 49316,
@@ -1273,7 +1370,8 @@
     "answers": ["Female"],
     "question_types": ["Table/List"],
     "donut_answer": "Which gender of students is reported with '0' percent 'Geographic' TONGUE findings? 0.95",
-    "pix2struct_answer": "0.95"
+    "pix2struct_answer": "0.95",
+    "layoutlmv2_answer": "gems"
   },
   {
     "questionId": 61908,
@@ -1286,7 +1384,8 @@
     "answers": ["9.00 am"],
     "question_types": ["Table/List"],
     "donut_answer": "When does the meeting begin? thursday 22 october",
-    "pix2struct_answer": "Thursday 22 October"
+    "pix2struct_answer": "Thursday 22 October",
+    "layoutlmv2_answer": "thursday 22 october"
   },
   {
     "questionId": 49340,
@@ -1299,7 +1398,8 @@
     "answers": ["The Nebraska Medical Association"],
     "question_types": ["Layout"],
     "donut_answer": "What is the name of the medical association? the nebraska medical association",
-    "pix2struct_answer": "the nebraska medical association"
+    "pix2struct_answer": "the nebraska medical association",
+    "layoutlmv2_answer": "the nebraska medical association"
   },
   {
     "questionId": 63539,
@@ -1312,7 +1412,8 @@
     "answers": ["2 y."],
     "question_types": ["Table/List"],
     "donut_answer": "What is the age ? 2 y.",
-    "pix2struct_answer": "2 Y."
+    "pix2struct_answer": "2 Y.",
+    "layoutlmv2_answer": "166"
   },
   {
     "questionId": 49345,
@@ -1325,7 +1426,8 @@
     "answers": ["Lincoln hilton hotel"],
     "question_types": ["Free_text"],
     "donut_answer": "Where was the 107th annual session of medical association held? lincoln hilton hotel",
-    "pix2struct_answer": "the nebraska medical association"
+    "pix2struct_answer": "the nebraska medical association",
+    "layoutlmv2_answer": "lincoln hilton hotel"
   },
   {
     "questionId": 32967,
@@ -1338,7 +1440,8 @@
     "answers": ["November 15, 1972"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the deadline date? november 15, 1972",
-    "pix2struct_answer": "November 15, 1972"
+    "pix2struct_answer": "November 15, 1972",
+    "layoutlmv2_answer": "november 15, 1972"
   },
   {
     "questionId": 49353,
@@ -1351,7 +1454,8 @@
     "answers": ["Age Adjusted Cerebrovascular mortality canada"],
     "question_types": ["Layout"],
     "donut_answer": "What is the \u2018title\u2019 of the plot? age adjusted cerebrovascular mortality",
-    "pix2struct_answer": "AGE ADJUSTED CEREBROUSCULAR MORTALITY"
+    "pix2struct_answer": "AGE ADJUSTED CEREBROUSCULAR MORTALITY",
+    "layoutlmv2_answer": "multivariate predictor"
   },
   {
     "questionId": 57548,
@@ -1364,7 +1468,8 @@
     "answers": ["XV", "15"],
     "question_types": ["Layout"],
     "donut_answer": "What is the page number? 4",
-    "pix2struct_answer": "XV"
+    "pix2struct_answer": "XV",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 32973,
@@ -1377,7 +1482,8 @@
     "answers": ["482,757"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the negotiated budget for Rutgers Med. Sch. given in the document? 482,757",
-    "pix2struct_answer": "482,757"
+    "pix2struct_answer": "482,757",
+    "layoutlmv2_answer": "482, 757"
   },
   {
     "questionId": 206,
@@ -1390,7 +1496,8 @@
     "answers": ["Shell Coal Gasification Process"],
     "question_types": ["Free_text"],
     "donut_answer": "What is SCGP? is a clean and efficient process for effectivel process for converting coalinto synthesis gas. synthesis gasis a versatile mixture of carbon monoxide",
-    "pix2struct_answer": "Shell Coal Gasification Process"
+    "pix2struct_answer": "Shell Coal Gasification Process",
+    "layoutlmv2_answer": "the shell coal gasification process"
   },
   {
     "questionId": 207,
@@ -1403,7 +1510,8 @@
     "answers": ["Synthetic gas"],
     "question_types": ["Free_text"],
     "donut_answer": "What is coal converted into, during the SCGP process? sugaring coal into synthesis gas",
-    "pix2struct_answer": "Shell Coal Gasification Process"
+    "pix2struct_answer": "Shell Coal Gasification Process",
+    "layoutlmv2_answer": "synthesis gas."
   },
   {
     "questionId": 208,
@@ -1416,7 +1524,8 @@
     "answers": ["Su Zhour, China"],
     "question_types": ["Layout"],
     "donut_answer": "Where is fourth advanced coal gasification symposium held? the shell coal gasification process",
-    "pix2struct_answer": "Su Zhou, China"
+    "pix2struct_answer": "Su Zhou, China",
+    "layoutlmv2_answer": "su zhou, china"
   },
   {
     "questionId": 209,
@@ -1429,7 +1538,8 @@
     "answers": ["For company use only"],
     "question_types": ["Layout", "Image/Photo"],
     "donut_answer": "What is written in red ink at the top? v1622.53",
-    "pix2struct_answer": "ESSO Resources Canada Ltd."
+    "pix2struct_answer": "ESSO Resources Canada Ltd.",
+    "layoutlmv2_answer": "kv"
   },
   {
     "questionId": 215,
@@ -1442,7 +1552,8 @@
     "question_types": ["Layout"],
     "answers": ["Shell coal gasification process"],
     "donut_answer": "What is the title of the Figure 1 shell coal gasification process",
-    "pix2struct_answer": "Shell coal gasification process"
+    "pix2struct_answer": "Shell coal gasification process",
+    "layoutlmv2_answer": "the shell coal gasification process"
   },
   {
     "questionId": 216,
@@ -1455,7 +1566,8 @@
     "answers": ["Clean gas"],
     "question_types": ["Figure/Diagram"],
     "donut_answer": "As per the Figure what is the end product of the shell coal gasification process? oxygen",
-    "pix2struct_answer": "squilter"
+    "pix2struct_answer": "squilter",
+    "layoutlmv2_answer": "high pressure superheated steam"
   },
   {
     "questionId": 218,
@@ -1468,7 +1580,8 @@
     "answers": ["Over 96%"],
     "question_types": ["Free_text"],
     "donut_answer": "How much carbon conversion is achieved in a single in pass in SCGP process? 98%",
-    "pix2struct_answer": "98%"
+    "pix2struct_answer": "98%",
+    "layoutlmv2_answer": "over 98 %"
   },
   {
     "questionId": 219,
@@ -1481,7 +1594,8 @@
     "answers": ["30-40 bar"],
     "question_types": ["Free_text"],
     "donut_answer": "What is the optimal pressure of the gasifier in SCGP? increase overall process efficiency and reliability, and reduce product gas cost",
-    "pix2struct_answer": "30-40 bar"
+    "pix2struct_answer": "30-40 bar",
+    "layoutlmv2_answer": "30 - 40 bar"
   },
   {
     "questionId": 57558,
@@ -1494,7 +1608,8 @@
     "answers": ["40,000"],
     "question_types": ["Free_text"],
     "donut_answer": "Cumulatively, how many women were employed through ITC's Women's Empowerment Programme 40,000",
-    "pix2struct_answer": "over 40,000"
+    "pix2struct_answer": "over 40,000",
+    "layoutlmv2_answer": "over 40, 000"
   },
   {
     "questionId": 221,
@@ -1507,7 +1622,8 @@
     "answers": ["Alberta"],
     "question_types": ["Free_text"],
     "donut_answer": "Experiences of the which branch of the clan will you be most interested in? the alberta branch of the clari",
-    "pix2struct_answer": "the Alberta branch of the clan"
+    "pix2struct_answer": "the Alberta branch of the clan",
+    "layoutlmv2_answer": "alberta"
   },
   {
     "questionId": 222,
@@ -1520,7 +1636,8 @@
     "answers": ["Canada"],
     "question_types": ["Free_text"],
     "donut_answer": "The document talks about migration to a particular country. Which country is it? canada",
-    "pix2struct_answer": "U.S.R."
+    "pix2struct_answer": "U.S.R.",
+    "layoutlmv2_answer": "canada"
   },
   {
     "questionId": 16603,
@@ -1533,7 +1650,8 @@
     "answers": ["JAMA"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the name of the Journal? jama",
-    "pix2struct_answer": "JAMA"
+    "pix2struct_answer": "JAMA",
+    "layoutlmv2_answer": "jama"
   },
   {
     "questionId": 225,
@@ -1546,7 +1664,8 @@
     "answers": ["Markets for coal gasification"],
     "question_types": ["Layout"],
     "donut_answer": "What is the title of the Figure 3 markets for coal gasification",
-    "pix2struct_answer": "Markets for coal gasification"
+    "pix2struct_answer": "Markets for coal gasification",
+    "layoutlmv2_answer": "markets for coal gasification"
   },
   {
     "questionId": 227,
@@ -1559,7 +1678,8 @@
     "answers": ["I come from a big family"],
     "question_types": ["Layout"],
     "donut_answer": "What is the title of this? come from a big family",
-    "pix2struct_answer": "I come from a big family"
+    "pix2struct_answer": "I come from a big family",
+    "layoutlmv2_answer": "from g family"
   },
   {
     "questionId": 228,
@@ -1572,7 +1692,8 @@
     "answers": ["Tex"],
     "question_types": ["Free_text"],
     "donut_answer": "Who comes to Canada from southern united states every year? southern united",
-    "pix2struct_answer": "Tex"
+    "pix2struct_answer": "Tex",
+    "layoutlmv2_answer": "senorita conchita pepita"
   },
   {
     "questionId": 57573,
@@ -1585,7 +1706,8 @@
     "answers": ["ITC"],
     "question_types": ["Layout", "Image/Photo"],
     "donut_answer": "What are the letters in the monogram logo at the top right of the document? itc",
-    "pix2struct_answer": "ITC"
+    "pix2struct_answer": "ITC",
+    "layoutlmv2_answer": "[CLS]"
   },
   {
     "questionId": 57574,
@@ -1598,7 +1720,8 @@
     "answers": ["202700"],
     "question_types": ["Layout"],
     "donut_answer": "What is the number in parentheses [ ], between the two Tables? [202100] notes - other provisions, contingent liabilities and contingent assets",
-    "pix2struct_answer": "202700"
+    "pix2struct_answer": "202700",
+    "layoutlmv2_answer": "( 1 )"
   },
   {
     "questionId": 57575,
@@ -1611,7 +1734,8 @@
     "answers": ["202100"],
     "question_types": ["Layout"],
     "donut_answer": "What is the number in parentheses [ ], at the top of the page? 1",
-    "pix2struct_answer": "31/04/2012"
+    "pix2struct_answer": "31/04/2012",
+    "layoutlmv2_answer": "( 1 )"
   },
   {
     "questionId": 57576,
@@ -1624,7 +1748,8 @@
     "answers": ["1,78,84,499"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the total cash and cash equivalents as on 31/03/2013? 1,78,84,499",
-    "pix2struct_answer": "1,76,84,499"
+    "pix2struct_answer": "1,76,84,499",
+    "layoutlmv2_answer": "1, 78, 84, 499 ]"
   },
   {
     "questionId": 57577,
@@ -1637,7 +1762,8 @@
     "answers": ["1,02,52,406"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the total cash and cash equivalents as on 31/03/2012? 1,78,84,499",
-    "pix2struct_answer": "1,76,84,499"
+    "pix2struct_answer": "1,76,84,499",
+    "layoutlmv2_answer": "1, 09, 52. 406"
   },
   {
     "questionId": 57578,
@@ -1650,7 +1776,8 @@
     "answers": ["31/03/2013"],
     "question_types": ["Table/List"],
     "donut_answer": "On which date is the 'total cash and cash equivalents' higher? 1,78,84,499",
-    "pix2struct_answer": "1/7/04/2012"
+    "pix2struct_answer": "1/7/04/2012",
+    "layoutlmv2_answer": "31 / 03 / 2013"
   },
   {
     "questionId": 57579,
@@ -1663,6 +1790,7 @@
     "answers": ["684.84"],
     "question_types": ["Table/List"],
     "donut_answer": "What is the income tax for 2003? rs. 14.00",
-    "pix2struct_answer": "47.57"
+    "pix2struct_answer": "47.57",
+    "layoutlmv2_answer": "8e4 64"
   }
 ]
